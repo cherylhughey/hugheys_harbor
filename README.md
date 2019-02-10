@@ -5,7 +5,7 @@ If you'd like to contribute, dive on in. This website was built with various Boo
 
 Project Site: https://cherylhughey.github.io/hugheys_harbor/
 
-Video demo: https://www.youtube.com/watch?v=k5DiXObdtGc&t=4s
+Video demo: https://www.youtube.com/watch?v=sEND7csJHT0
 
 Many thanks to Bootstrap for the framework and to w3schools.com for lessons on paths, image targets, etc.
 
