@@ -3,11 +3,11 @@
 
 If you'd like to contribute, dive on in. This website was built with various Bootstrap components. It is a demo business site. Improve the code, add to the pages or UX artifacts. It's all open sources with various attribution requirements, but we do ask that everyone respect the copyright of the photos.
 
-Links:<br>
-[Project Site](https://cherylhughey.github.io/hugheys_harbor/)<br>
+Links:  
+[Project Site](https://cherylhughey.github.io/hugheys_harbor/)  
 [Video demo](http://youtu.be/ljpLMITRWuw?hd=1)
 
-Thank you:<br>
+Thank you:  
 Many thanks to Bootstrap for the framework and to w3schools.com for lessons on paths, image targets, etc.
 
 ## UX Artifacts
