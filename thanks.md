@@ -1,4 +1,4 @@
-[HOME](https://cherylhughey.github.io/hugheys_harbor/)page
+[HOME](https://cherylhughey.github.io/hugheys_harbor/) page
 
 Thank you to:
 <br>
