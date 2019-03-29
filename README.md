@@ -1,5 +1,5 @@
 # Hughey's Harbor
-Bootstrap demo
+## Bootstrap Demo
 
 If you'd like to contribute, dive on in. This website was built with various Bootstrap components. It is a demo business site. Improve the code, add to the pages or UX artifacts. It's all open sources with various attribution requirements, but we do ask that everyone respect the copyright of the photos.
 
