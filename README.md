@@ -12,7 +12,7 @@ Many thanks to Bootstrap for the framework and to w3schools.com for lessons on p
 ## UX Artifacts
 
 ### *:arrow_down_small: Requirements*. 
-![wireframe](https://cherylhughey.github.io/img/requirements1.png)
+![wireframe](https://cherylhughey.github.io/img/requirements2.png)
 
 ### *:arrow_down_small: Personas*. 
 ![wireframe](https://cherylhughey.github.io/img/personas1.png)
