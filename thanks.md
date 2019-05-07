@@ -1,7 +1,8 @@
 Go back to the [HOME](https://cherylhughey.github.io/hugheys_harbor/) page
 
 
-:heart: Thank you to the following folks:  
+:heart: :heart: :heart:
+Thank you to the following folks:  
 
 Code answer for Jumbotron transparency in index.hmtl found at [stackoverflow.com](https://stackoverflow.com/questions/22904102/how-to-change-the-background-color-of-jumbrotron">source) with the answer by [Amit Joki](https://stackoverflow.com/users/3001736/amit-joki).  
 
