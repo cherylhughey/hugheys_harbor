@@ -1,4 +1,5 @@
-Back to the [HOME](https://cherylhughey.github.io/hugheys_harbor/) page
+[HOME](https://cherylhughey.github.io/hugheys_harbor/) page
+
 
 :heart: Thank you to the following folks:  
 
