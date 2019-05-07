@@ -1,4 +1,4 @@
----Go back to the [HOME](https://cherylhughey.github.io/hugheys_harbor/) page---
+---[HOME](https://cherylhughey.github.io/hugheys_harbor/)---
 
 
 :heart: :heart: :heart:
